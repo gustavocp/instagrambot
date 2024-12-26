@@ -3,6 +3,9 @@
 Um bot 100% funcional para automatizar interações no Instagram!  
 Ele realiza ações como curtir postagens, seguir usuários e comentar em publicações com base em hashtags ou no feed. Tudo é configurável e gerenciado através de uma interface interativa.
 
+Abaixo está uma captura de tela da interface gráfica do bot em funcionamento:
+![Interface do Bot](assets/working.png)
+
 ---
 
 ## ⚠️ **Aviso Importante**
